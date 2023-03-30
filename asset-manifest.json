@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/rajesh-profile/static/css/main.c7be0a61.css",
+    "main.js": "/rajesh-profile/static/js/main.3fd5fc88.js",
+    "static/media/food.png": "/rajesh-profile/static/media/food.4bf37d875235203ee161.png",
+    "static/media/weather.png": "/rajesh-profile/static/media/weather.73ce3c6624d753921d5a.png",
+    "static/media/mylogo.png": "/rajesh-profile/static/media/mylogo.db7cfff4940a9b5f74e7.png",
+    "static/media/profile.png": "/rajesh-profile/static/media/profile.1f7f4a9806b9fa6398d6.png",
+    "static/media/eims.png": "/rajesh-profile/static/media/eims.35468af1cefc685524b0.png",
+    "static/media/reactWeather.jpg": "/rajesh-profile/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/cgpa.png": "/rajesh-profile/static/media/cgpa.702c724401c228b2e729.png",
+    "static/media/movie.png": "/rajesh-profile/static/media/movie.eeaa2b600bb5b34ef5f3.png",
+    "static/media/vaccine.png": "/rajesh-profile/static/media/vaccine.30863e597afe637561c1.png",
+    "static/media/logo.jpeg": "/rajesh-profile/static/media/logo.7236601895dec9a6cae1.jpeg",
+    "static/media/bootstrap.png": "/rajesh-profile/static/media/bootstrap.63e7c1c1074a46d2da89.png",
+    "static/media/graphql.png": "/rajesh-profile/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/navbar.jpg": "/rajesh-profile/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/PHPi.png": "/rajesh-profile/static/media/PHPi.a827981e55119e2306da.png",
+    "static/media/react.png": "/rajesh-profile/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/mysql.png": "/rajesh-profile/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/node.png": "/rajesh-profile/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/rajesh-profile/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/rajesh-profile/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/rajesh-profile/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/wordpress.png": "/rajesh-profile/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/css.png": "/rajesh-profile/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/rajesh-profile/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/rajesh-profile/index.html",
+    "main.c7be0a61.css.map": "/rajesh-profile/static/css/main.c7be0a61.css.map",
+    "main.3fd5fc88.js.map": "/rajesh-profile/static/js/main.3fd5fc88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7be0a61.css",
+    "static/js/main.3fd5fc88.js"
+  ]
+}
